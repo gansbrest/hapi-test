@@ -1,0 +1,16 @@
+{
+  "name": "hapi-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^9.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Khalazdinski <gansbrest@gmail.com> (http://distinctplace.com/)",
+  "license": "ISC"
+}
