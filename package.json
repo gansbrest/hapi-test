@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^9.0.1"
+    "hapi": "^11.0.0"
   },
   "devDependencies": {},
   "scripts": {
